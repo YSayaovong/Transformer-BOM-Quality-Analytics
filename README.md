@@ -24,3 +24,7 @@ The workbook is read without modification. Reports are overwritten deterministic
 
 ## Scope and authorship
 Independent synthetic portfolio project, separate from employer systems. The added scripts, tests and documentation were developed with AI assistance. This demonstrates a reproducible practice workflow; it does not claim Python/SQL automation in paid employment, production validation, engineering approval or realized savings. The original workbook and presentation screenshots may require manual recalculation/review; openpyxl does not evaluate formulas or validate all charts.
+
+
+## Interview walkthrough and repeatable checks
+Start with [the interview walkthrough](docs/interview_walkthrough.md) to practice explaining the data grain, exception flags and KPI reconciliation. The included GitHub Actions definition reruns the four tests and workbook validator. It does not approve engineering designs or validate every Excel formula/chart.
