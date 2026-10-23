@@ -1,0 +1,245 @@
+{
+  "error_rows": 120,
+  "revision_rows": 100,
+  "error_units": 67,
+  "revision_units": 62,
+  "unit_id_inner_join_pairs": 0,
+  "shared_units": 0,
+  "issues": [
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 3,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 8,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 17,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 21,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 27,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 29,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 30,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 39,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 44,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 45,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 48,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 51,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 59,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 60,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 66,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 69,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 74,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 77,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 78,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 84,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 86,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 87,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 90,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 94,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    },
+    {
+      "sheet": "Revision_Change_Log",
+      "excel_row": 95,
+      "severity": "review",
+      "reasons": [
+        "unchanged revision: confirm whether administrative change was intended"
+      ]
+    }
+  ],
+  "metrics": {
+    "error_events": 120,
+    "rework_event_count": 62,
+    "rework_event_pct": 51.6667,
+    "average_resolution_hours": 3.0915,
+    "estimated_scenario_impact_usd": 164235.38
+  },
+  "source_sha256": "4683cfc8f8c706d608046a80012066d4494da9f5028a28778d692ff09392176f",
+  "scope": "Synthetic portfolio data; event-level checks, not engineering release approval.",
+  "kpi_summary_comparison": [
+    {
+      "metric": "Total BOM Errors",
+      "cached_workbook": 120,
+      "calculated": 120,
+      "matches_to_2dp": true
+    },
+    {
+      "metric": "Rework Rate (%)",
+      "cached_workbook": 51.67,
+      "calculated": 51.6667,
+      "matches_to_2dp": true
+    },
+    {
+      "metric": "Average Resolution Time (hrs)",
+      "cached_workbook": 3.09,
+      "calculated": 3.0915,
+      "matches_to_2dp": true
+    },
+    {
+      "metric": "Total Estimated Cost Impact ($)",
+      "cached_workbook": 164235.38,
+      "calculated": 164235.38,
+      "matches_to_2dp": true
+    }
+  ]
+}
