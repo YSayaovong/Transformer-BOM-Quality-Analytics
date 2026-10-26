@@ -22,6 +22,3 @@ The workbook is read without modification. Reports are overwritten deterministic
 
 ![Excel dashboard](assets/dashboard.png)
 
-
-## Interview walkthrough and repeatable checks
-Start with [the interview walkthrough](docs/interview_walkthrough.md) to practice explaining the data grain, exception flags and KPI reconciliation. The included GitHub Actions definition reruns the four tests and workbook validator. It does not approve engineering designs or validate every Excel formula/chart.
